@@ -1,5 +1,5 @@
 # ExfiltrationTools
-A practical preformed based on resources in "benstew / awesome-data-exfiltration" with description for each PRO/CON.
+Two practicals preformed based on resources in "benstew / awesome-data-exfiltration" with description for each PRO/CON.
 
 Resources:
 
