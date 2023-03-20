@@ -7,7 +7,12 @@ Two practicals preformed based on resources in "benstew / awesome-data-exfiltrat
 
 I came across this GitHub repo in a class discussion; I never used or looked at exfiltration tools in depth. I decided to explore all the tools and then use four different devices to exfiltrate data to get a better understanding of the exfiltration process.
 
+### Tools:
 
+- badcookie.py 
+- packetwhisper 
+- cloackify 
+- steghide
 
 
 Resources:
